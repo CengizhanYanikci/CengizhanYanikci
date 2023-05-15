@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba ben Cengizhan Yanıkcı</h1>
+<h1 align="center">Merhaba Ben Cengizhan Yanıkcı</h1>
 <h3 align="center">Front-End developer</h3>
 <img aling="right" alt="Coding" width="400" src="https://i.gifer.com/3otv.gif" >
 
