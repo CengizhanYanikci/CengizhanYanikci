@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba ben Cengizhan Yanıkcı</h1>
 <h3 align="center">Front-End developer</h3>
-![code](https://github.com/CengizhanYanikci/CengizhanYanikci/assets/95139899/a37468ef-c223-4830-846c-f3ae203066f1)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <img aling="right" alt="Coding" width="400" src="https://i.gifer.com/3otv.gif" >
 
