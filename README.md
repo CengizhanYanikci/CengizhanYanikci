@@ -1,5 +1,6 @@
 <h1 align="center">Merhaba ben Cengizhan Yanıkcı</h1>
 <h3 align="center">Front-End developer</h3>
+![3otv](https://github.com/CengizhanYanikci/CengizhanYanikci/assets/95139899/fe510377-c5e5-4a6d-b101-79725aba852c)
 <img aling="right" alt="Coding" width="400" src="https://i.gifer.com/3otv.gif" >
 
 
