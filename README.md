@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba ben Cengizhan Yanıkcı</h1>
 <h3 align="center">Front-End developer</h3>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
 <img aling="right" alt="Coding" width="400" src="https://i.gifer.com/3otv.gif" >
 
