@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba Ben Cengizhan Yanıkcı</h1>
 <h3 align="center">Front-End developer</h3>
-<img aling="right" alt="Coding" width="400" src="https://i.gifer.com/3otv.gif" >
+https://i.gifer.com/3otv.gif
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengizhanyanikci&label=Profile%20views&color=0e75b6&style=flat" alt="cengizhanyanikci" /> </p>
