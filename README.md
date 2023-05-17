@@ -22,12 +22,4 @@
 
 
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/cengizhanyanikci"><img src="https://github-readme-stats.vercel.app/api?username=cengizhanyanikci&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="cengizhanyanikci's GitHub stats" /></a>
-
-<a href="http://www.github.com/cengizhanyanikci"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cengizhanyanikci&stroke=facc15&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=facc15&currStreakLabel=14b8a6&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/cengizhanyanikci"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cengizhanyanikci&bg_color=0f172a&color=facc15&line=0891b2&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/cengizhanyanikci"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengizhanyanikci&langs_count=10&title_color=14b8a6&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
