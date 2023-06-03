@@ -25,5 +25,4 @@
 
 <a href="http://www.github.com/cengizhanyanikci"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cengizhanyanikci&stroke=facc15&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=facc15&currStreakLabel=14b8a6&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/cengizhanyanikci"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cengizhanyanikci&bg_color=0f172a&color=facc15&line=0891b2&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
